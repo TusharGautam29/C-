@@ -1,6 +1,6 @@
 #include<iostream>
 //Q1 1 pointer needs to be modified for deletion
-//Q2 135
+//Q2 1 3
 class ListNode {
 public:
     int val;
